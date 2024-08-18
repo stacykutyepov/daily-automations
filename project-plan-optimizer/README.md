@@ -1,4 +1,4 @@
-This Python script generates a project plan based on tasks, effort in days, and specific days off for task owners. The script calculates the start and end dates for each task, accounting for weekends, holidays, and specified days off. The final output is a CSV file that includes the calculated dates and a summary of days off.
+This Python script generates a project plan based on tasks, effort in days, and specific days off for task owners. The script calculates the start and end dates for each task, accounting for weekends, and specified days off. The final output is a CSV file that includes the calculated dates and a summary of days off.
 
 ### Features:
 Accepts a CSV file with tasks, effort, and owners.
